@@ -1,0 +1,21 @@
+{{ block "index" . }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/htmx.org@2.0.6/dist/htmx.min.js"></script>
+    <title>index</title>
+</head>
+<body>
+    Shinkanzen JP-Master
+    <button hx-post="/clickme" hx-swap="outerHTML" hx-target="#result">
+        Click me
+    </button>
+
+    <div id="result">
+        Something will be replaced here.
+    </div>
+</body>
+</html>
+{{ end }}

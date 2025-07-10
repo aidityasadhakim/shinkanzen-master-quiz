@@ -1,0 +1,18 @@
+{{ block "quiz" . }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>quiz</title>
+</head>
+<body>
+    <h1>{{ .Question }}</h1>
+    <ul>
+        {{ range .Options }}
+            <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+</body>
+</html>
+{{ end }}
