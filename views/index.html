@@ -1,21 +1,17 @@
-{{ block "index" . }}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.jsdelivr.net/npm/htmx.org@2.0.6/dist/htmx.min.js"></script>
-    <title>index</title>
-</head>
-<body>
-    Shinkanzen JP-Master
-    <button hx-post="/clickme" hx-swap="outerHTML" hx-target="#result">
-        Click me
-    </button>
+{{ template "layout.html" . }}
 
-    <div id="result">
-        Something will be replaced here.
+{{ define "content" }}
+<!-- Quiz Container -->
+<div class="max-w-2xl mx-auto">
+    <div id="quiz-container" class="bg-white rounded-xl shadow-lg p-8" x-data="{ open: false }">
+        {{ template "question" . }}
+
     </div>
-</body>
-</html>
-{{ end }}
+    <!-- Loading State -->
+    <div id="loading" class="hidden">
+        <div class="flex items-center justify-center py-8">
+            <div class="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600"></div>
+            <span class="ml-2 text-gray-600">Loading...</span>
+        </div>
+    </div>
+    {{ end }}

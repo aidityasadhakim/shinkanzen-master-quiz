@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/htmx.org@2.0.6/dist/htmx.min.js"></script>
+    <script src="//unpkg.com/alpinejs" defer></script>
+    <title>{{ .Title }}</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&display=swap');
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+        <!-- Header -->
+        <div class="text-center mb-8">
+            <h1 class="text-4xl font-bold text-gray-800 mb-2">新幹線 JP Master</h1>
+            <p class="text-gray-600">Japanese Grammar Quiz</p>
+        </div>
+
+        {{ template "content" . }}
+    </div>
+
+    <script>
+        // Show loading state on HTMX requests
+        document.addEventListener('htmx:beforeRequest', function(event) {
+            document.getElementById('loading').classList.remove('hidden');
+        });
+        
+        document.addEventListener('htmx:afterRequest', function(event) {
+            document.getElementById('loading').classList.add('hidden');
+        });
+    </script>
+</body>
+</html>
