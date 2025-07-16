@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"embed"
 	"encoding/json"
 	"fmt"
 	"html/template"
@@ -16,6 +17,9 @@ import (
 	"github.com/labstack/echo/v4/middleware"
 	"google.golang.org/genai"
 )
+
+//go:embed views/*.html llm-knowledgebase/*
+var templateFS embed.FS // Declare an embed.FS variable
 
 type Templates struct {
 	templates *template.Template
@@ -32,7 +36,7 @@ func NewTemplates() *Templates {
 		},
 	}
 	return &Templates{
-		templates: template.Must(template.New("").Funcs(funcMap).ParseGlob("views/*.html")),
+		templates: template.Must(template.New("").Funcs(funcMap).ParseFS(templateFS, "views/*.html", "llm-knowledgebase/*")),
 	}
 }
 
@@ -78,7 +82,7 @@ func main() {
 	}
 
 	grammarData := &internal.GrammarData{}
-	grammarData, err = internal.ReadGrammarData("llm-knowledgebase/n3.json")
+	grammarData, err = internal.ReadGrammarData("llm-knowledgebase/n3.json", templateFS)
 	if err != nil {
 		e.Logger.Fatal("Failed to read grammar data:", err)
 	}

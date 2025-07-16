@@ -1,8 +1,8 @@
 package internal
 
 import (
+	"embed"
 	"encoding/json"
-	"os"
 )
 
 type GrammarPoint struct {
@@ -16,8 +16,8 @@ type GrammarData struct {
 	GrammarPoints []GrammarPoint `json:"grammar_points"`
 }
 
-func ReadGrammarData(filename string) (*GrammarData, error) {
-	file, err := os.Open(filename)
+func ReadGrammarData(filename string, templateFS embed.FS) (*GrammarData, error) {
+	file, err := templateFS.Open(filename)
 	if err != nil {
 		return nil, err
 	}
