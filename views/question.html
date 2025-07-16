@@ -37,7 +37,8 @@
 </div>
 
 <div class="mt-6" x-show.important="open">
-    <button hx-get="/new-question" hx-target="#quiz-container" hx-swap="innerHTML" @click="open = false"
+    <button hx-get="/new-question" hx-vals="js:{level: 'n1'}" hx-target="#quiz-container" hx-swap="innerHTML"
+        @click="open = false"
         class="w-full bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200 cursor-pointer">
         Next Question
     </button>

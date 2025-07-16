@@ -1,0 +1,322 @@
+{
+    "grammar_points": [
+        {
+            "explanation": "「~が原因だ。・〜が原因で･･･という結果になる。」･･･にはふつう希望・意向・相手への働きかけなどの文は来ない。少し硬い言い方。\nBecause of ~,... resulted. Not used when a speaker is expressing hope or intention or trying to induce another person to an action. A slightly formal way of speaking.\n表示“是因为~”或“因为~,产生了……的结果”。……通常不可以是表示说话人的愿望、意愿的表达方式或祈使形式。该说法偏正式。",
+            "formation_rule": "名 +ためだ・ため(に)\n普通形(ナ形だな/-である・名だの/-である) +ためだ・ため(に)",
+            "grammar_pattern": "~ためだ・~ため(に)･･･",
+            "point_id": "5-1"
+        },
+        {
+            "explanation": "「~が原因で･･･という結果が起こる。」･･･には状態を表す文は来ない。また、希望・意向・相手への働きかけなどの文は来ない。少し硬い言い方。\nBecause of,... resulted. Not used for expressing a state, or when a speaker is expressing hope or intention or trying to induce another person to an action. A slightly formal way of speaking.\n表示“因为~,产生……的结果”。……不可以是表示状态,说话人的愿望、意愿的表达方式或祈使形式。該說法偏正式。\n\n「~という手段で･･･する。」少し硬い言い方。\nBy using the method of ~, do... A slightly formal way of speaking.\n表示“以~的方式……”,該說法偏正式。",
+            "formation_rule": "名+によって\n名+による+名\n名+によって\n名+による+名",
+            "grammar_pattern": "~によって････〜による",
+            "point_id": "5-2"
+        },
+        {
+            "explanation": "「~という事実が原因で･･･という結果に発展する････と判断する。」･･･には希望・意向・相手への働きかけなどの文は来ない。\nBecause of ~,... results, or I conclude that.... Not used when a speaker is expressing hope or intention or trying to induce another person to an action.\n表示“因为事实~,(将)导致产生结果………”或“基于事实~,做出……的判断”,……不可以是表示说话人的愿望、意愿的表达方式或祈使形式。",
+            "formation_rule": "名+から\n普通形(ナ形だな/-である・名だである) +ことから",
+            "grammar_pattern": "~から････〜ことから･･･",
+            "point_id": "5-3"
+        },
+        {
+            "explanation": "「~の影響で･･･といういい結果になる(おかげだ)/よくない経巣になる(せいだ)。」･･･には希望・意向・相手への働きかけなどの文は来ない。\nMeans \"thanks to\" in positive sense (おかげだ) and \"because of” (せいだ) in negative sense. Not used for sentences which express hope or intention or which induce another person to an action.\n表示“在~的影响下,产生某个好的结果･･･ (おかげだ) / 产生某个坏的结果･･･(せいだ)”。･･･不可以是表示说话人的愿望、意愿の表達方式或祈使形式。",
+            "formation_rule": "名の・動・形普通形(ナ形だな) +おかげだ・おかげで/せいだ・せいで",
+            "grammar_pattern": "~おかげだ・~おかげで･･･/~せいだ・~せいで･･･",
+            "point_id": "5-4"
+        },
+        {
+            "explanation": "「~が事実だから、当然･･･。」〜には相手が知っているはずの事実を表す文、･･･には話者の判断・希望・意向や相手への働きかけなどの文が来る。\n... is the natural consequence of ~. Means that one fact naturally follows from another, and the other person is assumed to know this.... is the speaker expressing a judgment, hope or intention, or trying to induce another person to an action.\n表示“因为存在~的事实,所似当然……”。~为表示某个听话人应当知道的事实的小句,……为表示说话人的判断、愿望、意願の表達方式或祈使形式。",
+            "formation_rule": "普通形(ナ形だな・名だな) +のだから",
+            "grammar_pattern": "~のだから･･･",
+            "point_id": "5-5"
+        },
+        {
+            "explanation": "「~という情報を受けて、･･･。」〜はほかの人の話や様子などからわかったこと、･･･は話者の判断・意志・相手への働きかけの文など。\nIn light of~ (news or situation),... Used when a speaker makes certain assumptions, for example based on another person's remarks or appearance.... is the speaker expressing a judgment or intent, or trying to induce another person to an action.\n表示“既然~,那么……”。~表示从他人那里直接获得或根据其他人的表現間接了解到的信息,……为表示说话人的判断、决定的表达方式或祈使形式。",
+            "formation_rule": "普通形(ナ形だ/-である・名だ/-である) + (の)なら\n*ナ形だ、名だの場合は「のなら」にはならない。",
+            "grammar_pattern": "~(の)なら･･･",
+            "point_id": "6-1"
+        },
+        {
+            "explanation": "「~という事実(または仮定の状況)だと、･･･というよくない結果になる。」･･･はマイナスの意味の文で、話者の希望・意向を表す文や働きかけの文は来ない。\nGiven that (assuming/supposing) ~,... can be expected (unwanted outcome).... is a phrase that has negative meaning. It cannot convey the speaker's hope or intention, or inducement of another person to an action.\n表示“如果存在事実~(或“如果~”),就会产生某个不好的結果………”。………为某个有负面意義的事項,不可以是表示说话人的願望、意願の表達方式或祈使形式。",
+            "formation_rule": "動て形・イ形 - くて・ナ形なで・名で+は\n普通形(ナ形だな・名だな) +のでは",
+            "grammar_pattern": "~ては･･･・~(の)では･･･",
+            "point_id": "6-2"
+        },
+        {
+            "explanation": "「~が実現すれば、それだけで･･･が実現する。」「~さえ〜ば(なら)」は･･･が成り立つための必要最低限の条件を示す。\nIf~happens or is done, then... is all that needs to be done. The phrase 「~さえ〜ば(なら)」 is used to indicate the minimum conditions necessary for... to take place.\n表示“只要~能够实现,……就能够实现”。「~さえ〜ば(なら)」這個句型用于提示………成立的必要條件。",
+            "formation_rule": "動ば形・イ形-ければ\n名さえ +\nナ形なら・名なら\n動ます +さえ+すれば",
+            "grammar_pattern": "~さえ〜ば････〜さえ〜なら･･･",
+            "point_id": "6-3"
+        },
+        {
+            "explanation": "「~が事実だと仮定した場合でも、それに関係なく･･･。」\nMeans that even if a certain fact or state exists, something will take place or be done regardless.\n表示“就算~是事實,也……”。",
+            "formation_rule": "動て形\nイ形 - くて\nたとえ+\nナ形なで\n名で +も",
+            "grammar_pattern": "たとえ~ても･･･・たとえ~でも･･･",
+            "point_id": "6-4"
+        },
+        {
+            "explanation": "「もし~の場合、･･･という結果になるはずだが、実際にはそうではない。」〜も･･･も事実とは違うことを言う。･･･は「~た・〜のだが・〜のに」などの文が多い。\nUsed in sentences like \"If ~ had happened, then... should have been the outcome\" (but in fact things did not turn out like that). Refers to hypothetical (unrealized) propositions. Often used in sentences that contain〜た、~のだがor〜のに、\n表示“要是~的話,应该就………了”。其中,~和………都为表示与事实不同的事項。･･･多以「~た・〜のだが・〜のに」等形式結句。",
+            "formation_rule": "動ば形・イ形-ければ・ナ形なら・名なら\n動ない - なければ・イ形 - くなければ・ナ形なでなければ・名でなければ\n普通形(過去形だけ)+ら\n*動詞は「~ていたら」の形が多い。",
+            "grammar_pattern": "~ば････〜たら･･･・〜なら･･･",
+            "point_id": "6-5"
+        },
+        {
+            "explanation": "「~だそうだ。」得た情報を伝える言い方で、「~だそうだ」より硬い。情報源を示すには「〜では・~によると・〜によれば」などを使う。ある人が言ったことを個人的に伝える場合は「~とのことだ」をよく使う。⑤のような形で手紙などの中で使うこともある。\n(According to xxx), ~. Indicates reported speech. Used to pass on acquired information. Slightly more formal than ~だそうだ. To indicate the source of the information, expressions such as 〜では、~によると、or〜によれば are used. ~とのことだ is often used in cases where the original statement was made by another individual personally. 5 illustrates usage in a letter.\n表示“据说~”,用于向別人伝達自己所知的信息,比「~だそうだ」の說法更為正式。信息来源通常用「~では・〜によると・~によれば」等形式来表示,如果要伝達的消息是某人口授,常用「~とのことだ」的形式。⑤的形式常用於書信。",
+            "formation_rule": "普通形+ということだ・とのことだ",
+            "grammar_pattern": "~ということだ・~とのことだ",
+            "point_id": "7-1"
+        },
+        {
+            "explanation": "「~と、世間の人たちが言っている。」\nPeople say that, it is generally believed that ~. Indicates received opinion.\n表示“人們都說~”。",
+            "formation_rule": "普通形+と言われている",
+            "grammar_pattern": "~と言われている",
+            "point_id": "7-2"
+        },
+        {
+            "explanation": "「~と聞いた。」うわさなどで聞いたはっきりしないことを言う。\nI heard that. Used when the information is based on unconfirmed hearsay.\n表示“我听说~”,常用于自己也只是道听途说、并不十分確信の場。",
+            "formation_rule": "普通形+とか",
+            "grammar_pattern": "~とか",
+            "point_id": "7-3"
+        },
+        {
+            "explanation": "「~と言っている・〜と聞いた。」「~と」のくだけた話し言葉で、②③④のように、後の動詞(言っている・聞いたなど)をよく省略する。④のように、言った言葉に直接「って」をつけることもある。\nPeople say, I heard that ~. A colloquial, casual form for ~ と. As in ②, ③, and 4, the verb that should follow (いっている or きいた, etc.) is often omitted. As in ④, って can also be tagged on to the end of a whole statement.\n表示“某人說~”或是“我听说~”。是「~と」的口語形式,語氣随便,其后常常省略動詞 「いっている」、「きいた」等,如②③④;也可以在直接引用的内容后直接加「って」,如④。",
+            "formation_rule": "普通形+って",
+            "grammar_pattern": "〜って",
+            "point_id": "7-4"
+        },
+        {
+            "explanation": "「~だそうだ。」少し硬い書き言葉。\nSlightly more formal alternative to 〜だそうだ, used more in written language.\n表示“据说~”,是比較正式の書面語用法。",
+            "formation_rule": "普通形+という",
+            "grammar_pattern": "~という",
+            "point_id": "7-5"
+        },
+        {
+            "explanation": "「絶対〜ない。」話者が強い確信を持って否定する言い方。\nDefinitely is not/does not ~. Strong expression of negation based on the opinion of the speaker.\n表示“絕對不可能~”,用于說話人明確否定某个事項時。",
+            "formation_rule": "普通形(ナ形だな/-である・名だの/-である) +はずがない・わけがない",
+            "grammar_pattern": "~はずがない・~わけがない",
+            "point_id": "8-1"
+        },
+        {
+            "explanation": "「必ず〜とは断定できない・〜ではない場合もある。」「みんな・いつも・だれでも・必ず」などの言葉といっしょに使うことが多い。\nIt cannot be stated categorically that ~, there may be cases where it is not ~. Often used with みんな、いつも、だれでもorかならず。\n表示“不一定就是~”或“也有可能不是~”,常与「みんな・いつも・だれでも・かならず」等搭配使用。",
+            "formation_rule": "普通形(ナ形(だ)・名(だ)) +とは限らない",
+            "grammar_pattern": "~とは限らない",
+            "point_id": "8-2"
+        },
+        {
+            "explanation": "「状況から〜だと想像されるだろうが、実はそうではない。」〜の部分だけを否定する言い方。\nMeans something like \"it's not that ~ but rather that,\" and used in constructions in which circumstances may suggest one thing, but the facts are different. Only the ~ part of the statement is negated.\n表示“按现有狀況来看,人們容易认为是~,但其实并非如此”,該表達方式只否定~的部分。",
+            "formation_rule": "普通形(ナ形だな/-である・名だの/-な/-である) +わけではない\n普通形(ナ形(だ)・名(だ)) +というわけではない\n普通形(ナ形だな・名だな) +のではない",
+            "grammar_pattern": "~わけではない・~というわけではない・~のではない",
+            "point_id": "8-3"
+        },
+        {
+            "explanation": "「絶対〜ないとは言えない。」否定の形を否定することで弱く肯定する言い方。\nI cannot say that ~ never happens (is not impossible). Used to mildly express the affirmative using a double negative.\n表示“也不是說絕對不~”,以双重否定的形式表示委婉的肯定意義。",
+            "formation_rule": "動ない形・イ形 - くない・ナ形なでない・名でない+ことはない",
+            "grammar_pattern": "~ないことはない",
+            "point_id": "8-4"
+        },
+        {
+            "explanation": "「確かに〜だが、その事実はあまり重要ではなくて、･･･。」\nIt is true that (though this fact is not so important); but ...\n表示“虽然說~是事實,但更重要的是……”。",
+            "formation_rule": "動・形普通形(ナ形だな) +ことは+動・形普通形・丁寧形+が",
+            "grammar_pattern": "~ことは〜が、･･･",
+            "point_id": "8-5"
+        },
+        {
+            "explanation": "「(ほかの人が)~する/~しないことを望む。」①③⑤のように、要求する相手がはっきりしていない場合もある。相手に直接言う場合は「〜てください/〜ないでください」と大体同じ意味。\nUsed to express hopes that another person will do something for the speaker as a service or favor, or refrain from doing something that causes the speaker displeasure. Sometimes, as in 1, 3 and 5, the person of whom the request is made is not specified. When addressing or making a request, etc. of the other person directly, it has almost same meaning as ~てください〜/~ないでください〜。\n表示“希望有人做~”或是“希望某人不做~/没有人做~”。~可以没有确定的動作主体,如①③⑤。如~の動作主体恰好是听話人,它所表示的意思与「〜てください/〜ないでください」大致相同。",
+            "formation_rule": "動て形/ない形+で +もらいたい・いただきたい・ほしい",
+            "grammar_pattern": "~てもらいたい・~ていただきたい・~てほしい",
+            "point_id": "9-1"
+        },
+        {
+            "explanation": "「(自分が)〜する/~しないことを望む。」ほかの人が自分のために、ある状況を作ったり許可したりすることを望む言い方。②③のように、相手に直接希望を言うときにもよく使う。\nMeans \"hope to be allowed to do something, or to not have to do something, by oneself;\" expresses hope that another person will arrange or permit something. Often used for direct expression of a wish to somebody, as in 2 and 3.\n表示“我想做~”或“我不想做~”,用于希望征得別人許可或获得別人的諒解让自己做某事或不做某事,也常用于直接向听話人提出請求,如②和③。",
+            "formation_rule": "動詞Ⅰ 動ない+せて/せないで\n動詞Ⅱ 動ない+させて/させないで\n動詞Ⅲ 来る→来させて/来させないで\nする→させて/させないで +もらいたい・いただきたい・ほしい",
+            "grammar_pattern": "~(さ)せてもらいたい・~(さ)せていただきたい・~(さ)せてほしい",
+            "point_id": "9-2"
+        },
+        {
+            "explanation": "「〜ことを望んでいる。」〜には話者自身の意志的行為を表す言葉は来ない。\nMeans \"hope (that something happens),\" but used when the outcome does not depend on one's own will.\n表示“希望能夠~”。~不可以表示說話人の有意志的行為。\n\n「箱手に〜の行為をする/しないことを勧める。」\nUrge another person to do ~/not to do ~ (verb).\n表示“我建議你(不要)~”。",
+            "formation_rule": "普通形(現在形だけ) +と\n動ば形・イ形 - ければ\n+いい\n動ない・イ形く・ナ形なで・名で+なければ\n普通形(過去形だけ) +ら\n動辞書形+と\n動ば形/ないなければ+いい\n動たら",
+            "grammar_pattern": "~といい・~ばいい・~たらいい",
+            "point_id": "9-3"
+        },
+        {
+            "explanation": "「~しなさい/~してはいけない。」特に男性が強く命令するときに使うが、応援するときや立て札・張り紙などにも使う。③④⑥のように、「」を使わず、間接的に伝える場合にも使う。\nDo ~! Do not ~! A strong positive and negative imperative form, used particularly by males. Also used for shouting out support at sports events, or in the language of supporters' posters and banners. Can also be used when giving instructions indirectly, as in ③, ④ and 6, without using quotation marks.\n表示命令或禁止。該用法常見于男性,語氣強硬。為別人打氣時,或警示牌、警示標語上也可以使用該表達方式。除了直接引用的方式以外,也可以以間接引用的方式用于句中,此時不需要加「」,如③、④和⑥。",
+            "formation_rule": "命令動詞Ⅰ動ば\n動詞Ⅱ 動ます - ろ\n*例外 くれる→くれ\n動詞Ⅲ する→しろ\n来る→来い\n禁止動辞書形+な",
+            "grammar_pattern": "命令(しろ)/禁止(~な)",
+            "point_id": "10-1"
+        },
+        {
+            "explanation": "「~しなさい/~してはいけない。」主に注意や指示を張り紙などに書いて伝えるときに使う。\nDo, Do not Imperative used mainly when giving a caution, or conveying instructions or orders in writing in notices, etc.\n表示命令或禁止,主要以書面語的形式出現,如寫有警示或指示内容的寧条或是告示。",
+            "formation_rule": "動辞書形/ない形+こと",
+            "grammar_pattern": "~こと",
+            "point_id": "10-2"
+        },
+        {
+            "explanation": "「~するのが当然だ・〜したほうがいい/〜してはいけない・〜しないほうがいい。」規則で決まっていることではなく、話者の主張を言うときに使う。⑤のように過去形を使って反省や後悔を表すこともある。\nIt is a matter of course to ~, it is better to ~; should not ~, it is better not to ~. Used to reflect the opinion or judgment of the speaker, not any particular rule. Used in the past tense, as in 5), it can also express second thoughts or regret at not having done something.\n表示“理所应当~”、“最好~”、“不准~”、“最好不要~”。它并不表示按照規定应该怎樣或最好(不要)怎樣,而表示說話人的主観意見,其過去式形式可以表示后悔、反省的意思,如⑤。",
+            "formation_rule": "動辞書形 +べきだ・べきではない\n*例外 する→するべきだ・すべきだ\n動辞書形 +べき・べきではない+名",
+            "grammar_pattern": "~べきだ・~べき/~べきではない",
+            "point_id": "10-3"
+        },
+        {
+            "explanation": "「~するのがいいですよ。」助言や忠告の気持ちで相手にある行為を軽く勧めるときに使う。④のように、その行為をしないことを非難する言い方にもなる。\nWouldn't it be better to. Used when giving mild advice or recommendations to another person. Can also be used to criticize another person for failing to do something the speaker feels should have been done, as in 4.\n表示“你~吧”,用于委婉地向对方提出建議或忠告,也可以用于責怪對方为何一直没有采取這樣的做法,如④。",
+            "formation_rule": "動たらどうか",
+            "grammar_pattern": "~たらどうか",
+            "point_id": "10-4"
+        },
+        {
+            "explanation": "「~と決める。」「〜ことにした」という形で使うことが多いが、③のようにその場の決心を表すこともある。④のように「〜ことにしている」の形は、決心したことを今も続けていることを表す。~は意志的動作を表す動詞。\nI have decided to ~. It is often used in the form ~ことにした, but it may also be used to express a decision made on the spot (as one speaks), as in ③. The form ~ことにしている, as in ④, indicates that the decision made is still in force. ~ is a verb that expresses intentional behavior.\n表示“我決定~”,常使用過去式形式「〜ことにした」,也可以使用非過去式形式表示当場下的決心,如③。使用「〜ことにしている」的形式時,表示不光以前就決定了這樣做,這一點現在也沒有改變,如④。~為表示某个意志性動作の動詞。",
+            "formation_rule": "動辞書形/ている/ない形+ことにする\n動辞書形/ない形+ことにしている",
+            "grammar_pattern": "~ことにする・~ことにしている",
+            "point_id": "11-1"
+        },
+        {
+            "explanation": "「~する/しないことを心がける。」④のように「~ようにしている」の形は、努力を続けていることを表す。〜は意志的動作を表す動詞。\nTake care to ~/not to ~. When ~ようにしている is used, as in ④, it indicates continued resolve or commitment. Used with verbs expressing intentional behavior.\n表示“努力做到~”或是“努力不要~”。使用「~ようにしている」的形式時,表示說話人為実現某个目的或避免出現某个事態而正在付出努力,如④。~為表示某个意志性動作の動詞。",
+            "formation_rule": "動辞書形/ない形+ようにする・ようにしている",
+            "grammar_pattern": "~ようにする・~ようにしている",
+            "point_id": "11-2"
+        },
+        {
+            "explanation": "「~を実現させることを試みる。」③④のように、〜の行為の直前であることを表すこともある。⑤⑥のように、否定の形は話者以外が主語で、~する意志が全くないことを表す。\nTry to ~ (do something). Can also mean \"just as I was about to,\" as in ③ and . With the negative form, as in 5 and 6, the subject is another person. Here, it expresses a total absence of intent.\n表示“试图~”。除此以外,它也可以用于表示“就在即将~的時候”,如③④;或表示“某人根本没有~的念頭”,如⑤⑥,此時句子的主語不能為說話人。",
+            "formation_rule": "動う・よう形+とする",
+            "grammar_pattern": "~(よ)うとする",
+            "point_id": "11-3"
+        },
+        {
+            "explanation": "「(実際はそうではないが・ほかの人はそう思わないかもしれないが) 自分では〜の気持ちを持っている。」④のように相手を非難する言い方にもなる。\nMeans something like \"this at any rate is my feeling about ~,\" (though in reality things may be different, or others may disagree). Can also be used to criticize another person, as in ④.\n表示“(雖然實際情況并非如此或是別人并不這樣認為,但)自己覺得~”。可用于对听話人进行指責,如④。",
+            "formation_rule": "普通形(ナ形だな・名だ - の) +つもりだ\n*この使い方の場合、動辞書形・ない形にはつかない",
+            "grammar_pattern": "~つもりだ",
+            "point_id": "11-4"
+        },
+        {
+            "explanation": "Respectful language: Used to refer to the actions of superiors./尊他語(用于表示长辈或上司的行为)",
+            "formation_rule": "Special honorific verbs (e.g., いらっしゃる, おっしゃる); お/ご + Verb stem + になる; Verb (ら)れる form. Specific conjugations vary.",
+            "grammar_pattern": "尊敬語",
+            "point_id": "12-1"
+        },
+        {
+            "explanation": "Humble language 1: Verb forms used to describe speaker's own behavior when it involves or affects a superior.\n自謙語1(用于表示与长輩或上司有關的自己的行為)",
+            "formation_rule": "Special humble verbs (e.g., 伺う, 参る, 拝見する); お/ご + Verb stem + する. Specific conjugations vary.",
+            "grammar_pattern": "謙譲語1",
+            "point_id": "12-2"
+        },
+        {
+            "explanation": "Humble language 2: Verb forms used to politcly or modestly describe speaker's own behavior./自謙語2(用于礼貌地表示自己的行為)",
+            "formation_rule": "Special humble verbs (e.g., 参る, 伺う, 申す). Specific conjugations vary.",
+            "grammar_pattern": "謙譲語2",
+            "point_id": "12-3"
+        },
+        {
+            "explanation": "Polite language: Verb forms used to say things politely, without consideration of hierarchy of relationship.\n礼貌語(用于礼貌的表达,与自己与对方的身份、地位、年齢无关)",
+            "formation_rule": "です/ます form; ございます/あります.",
+            "grammar_pattern": "丁寧語",
+            "point_id": "12-4"
+        },
+        {
+            "explanation": "「~の状態が変わる前に、･･･する。」~は変化する前の状態を表す言葉。･･･は意志的な動作を表す文。\nDo... (verb) before state/situation ~ changes. The phrase expresses a state or situation, and... is a phrase that expresses an intentional action.\n表示“在~的状态发生变化以前做………”。~表示发生变化以前的某种状态,……为表示某个有意志的动作的小句。\n\n「~の状態が続いているときに、･･･に変わる。」〜は継続的なことを表す言葉。･･･は変化を表す文で、話者の意志が入らない文。\nWhile ~ (continuous process or action) is happening,... (a change) also happens. Refers to a change that happens without the volition of the speaker during a certain period.\n表示“在状态~持续期间,状态变化为………”。~表示某种可持续状态,……表示某个变化,……不能表示说话人的有意志的動作。",
+            "formation_rule": "名の・動辞書形/ている/ない形・イ形い・ナ形な+うちに\n動辞書形/ている/ない形+うちに",
+            "grammar_pattern": "~うちに･･･",
+            "point_id": "1-1"
+        },
+        {
+            "explanation": "「~間･･･」:「~の状態が続いているとき、ずっと･･･する・ずっと･･･の状態だ。」〜は継続的なことを表す言葉。･･･も継続的なことを表す文。\nWhile or during ~ (continuous state), ...is going on at the same time. Both ~ and... express a continuous action or state.\n表示“在状态~持续期间一直做………,或一直保持状态………”。~表示某种持续的状态,……也表示某种持续的状态。",
+            "formation_rule": "名の・動辞書形/ている/ない形+間・間に",
+            "grammar_pattern": "~間････~間に･･･",
+            "point_id": "1-2"
+        },
+        {
+            "explanation": "「~の前は･･･の状態が続く。」･･･は否定的な意味やマイナスの状態を表す文。\nUntil/unless happens or is done,... cannot happen or be done either. Used in negating or negative statements.\n表示“在~之前,一直保持状态………”。………帶有消極或負面色彩。",
+            "formation_rule": "動て形+からでないと・からでなければ",
+            "grammar_pattern": "~てからでないと･･･・~てからでなければ･･･",
+            "point_id": "1-3"
+        },
+        {
+            "explanation": "「~の置箭だ(①)・進行中だ (②)・直後だ(③④)。」文中では、後に来る動詞によって「ところを・ところで・ところへ」などの形になる。\nJust before happens ①, while ~ is happening or just after happened 3 and 4. Depending on the verb that follows, the end-particle varies, as follows: ところを、ところでorところへ。\n表示“在~即将发生的時候(①)~正在進行中(②)·~剛剛发生或完成(③④)”。用于句中時,根据句末所使用的動詞,后面有可能使用不同的助詞,如「ところを・ところで・ところへ」。",
+            "formation_rule": "動辞書形/ている/た形+ところだ・ところ(+助詞)",
+            "grammar_pattern": "~ところだ・~ところ(+助詞)…",
+            "point_id": "1-4"
+        },
+        {
+            "explanation": "「~と同じだ。〜と同じように･･･。」\nBe same as, in conformity with ~, do or be... in the same way as ~.\n表示“和~一样、完全按照~做……”。",
+            "formation_rule": "名の・動辞書形/た形/てある/ている +とおりだ・とおり(に)\n名+どおりだ・どおり(に)",
+            "grammar_pattern": "~とおりだ・~とおり(に)････〜どおりだ・~どおり(に)･･･",
+            "point_id": "2-1"
+        },
+        {
+            "explanation": "「~が違えば･･･。」･･･は一定でないことを表す文(さまざまだ・変えるなど)。「~によっては･･･」の･･･は、いろいろな場合のうちの一つの例を言う文。\nMeans to change state or behavior depending on something, or according to something. Expresses variety, and is commonly used with さまざまだ and かえる. The term〜によっては･･･ pinpoints one outcome from a range of possible outcomes.\n表示“因~而……”。………为表示并非一成不变的意思的小句(常用「さまざまだ・かえる」等)。「~によっては･･･」中的……表示多种可能出現的情形中的一种。",
+            "formation_rule": "名+によって・によっては",
+            "grammar_pattern": "~によって･･･・~によっては･･･",
+            "point_id": "2-2"
+        },
+        {
+            "explanation": "「~のとき、毎回同じように･･･する。」\n毎回同じだということを特に言いたいときに使う。日常の当然のことには使わない。~････には状態を表す文は来ない。\nWhenever happens,... always happens too. Used when the speaker wishes to emphasize the repeated nature of an action, but not for everyday or matter-of-course events. Neither ~ or... can express a state.\n表示“每次~的時候都……”,用于強調每次都一样、毫无例外。不用于表示日常生活中的理所当然的事項。~和……都不能为表示某种狀態的小句。",
+            "formation_rule": "名の・動辞書形+たびに",
+            "grammar_pattern": "~たびに･･･",
+            "point_id": "2-3"
+        },
+        {
+            "explanation": "「~の程度が進めば、その分･･･の程度も進む。」\nThe more ~ does or happens, the more... does or happens (... happens to the same extent as ~).\n表示“越~越……”。",
+            "formation_rule": "(動ば形) +動辞書形\n(イ形 - ければ) + イ形い\n+ほど\n(ナ形なら) + ナ形な\nイ形い・ナ形な十名",
+            "grammar_pattern": "(~ば)~ほど･･･・(~なら)~ほど･･･・~ほど･･･",
+            "point_id": "2-4"
+        },
+        {
+            "explanation": "「~するとき、その機会を利用して･･･もする。」二つの別々のことを同時にやってしまうと言いたいときに使う。~が本来の行為、･･･はそれに加えてする、目的のある意志的行為。\nWhen doing, take the opportunity to... as well.... is a secondary action performed based on opportunities(unintentionally) created by the original action ~.\n表示“趁着~,順道做……”。用于表示同時做两个不同的行為。~为主行為,……为附帶行為。",
+            "formation_rule": "名する-の・動辞書形/た形+ついでに",
+            "grammar_pattern": "~ついでに･･･",
+            "point_id": "2-5"
+        },
+        {
+            "explanation": "「~と同じ程度だ・〜と同じ程度に･･･。」程度の強さを表すために、ある状況に例えて言うときに使う。⑥のように、「~かと思うくらい・〜かと思うほど」の形でも使う。\nTo the extent that ~, in which is an example (emphasizing extent) of what could have, but did not actually, happen. Often used as in ⑥, ~かとおもうくらい・〜かとおもうほど in the sense \"was so [adjective], that I even thought...\"\n表示“和~的程度一样”,或“……得像~一样”,用于通过找一种情形做比喻,来表示某种程度の強弱時。有时也使用「~かとおもうくらい・〜かとおもうほど」的形式,如⑥。",
+            "formation_rule": "名・動・形普通形(ナ形だな) +くらいだ・ぐらいだ・くらい・ぐらい\n名・動・形普通形(ナ形だな) +ほどだ・ほど",
+            "grammar_pattern": "~くらいだ・~ぐらいだ・~くらい････〜ぐらい････~ほどだ・~ほど･･･",
+            "point_id": "3-1"
+        },
+        {
+            "explanation": "「~がいちばん･･･。」客観的な事実ではなくて、話者が主観的に言うときに使う。\n~ is the most... (of all). Used to express a subjective judgment by the speaker, not to state an objective fact.\n表示“~最…的”,它不表示客観事實,而表示說話人的主観意見。",
+            "formation_rule": "名+くらい･･･はない・ぐらい･･･はない\n名+ほど･･･はない",
+            "grammar_pattern": "~くらい･･･はない・~ぐらい･･･はない・~ほど･･･はない",
+            "point_id": "3-2"
+        },
+        {
+            "explanation": "「~というよくない状況に比べれば、･･･の方が少しはいい。」客観的な事実ではなくて、話者が主観的に言うときに使う。\nUsed in statements like If ~ is the case, then you are better off.... Used to express a subjective judgment of the speaker, not to state an objective fact.\n表示“与~这种不理想的狀況相比,……要略好些(与其~,还不如……)”,它不表示客観事實,而表示說話人的主観意見。",
+            "formation_rule": "動辞書形+くらいなら",
+            "grammar_pattern": "~くらいなら････〜ぐらいなら･･･",
+            "point_id": "3-3"
+        },
+        {
+            "explanation": "「~がいちばんいい・〜がいちばんいい方法だ。」客観的な事実ではなくて、話者が主観的に言うときに使う。\n~ is the best, or ~ is the best method/way. Used to express a subjective judgment of the speaker, not to state an objective fact.\n表示“~最好”、“~是最好的方法”,它不表示客観事實,而表示說話人的主観意見。",
+            "formation_rule": "名・動辞書形/ない形+に限る",
+            "grammar_pattern": "~に限る",
+            "point_id": "3-4"
+        },
+        {
+            "explanation": "「~と対比的に･･･。」一つのものごと (~と･･･)の違いをはっきり表すときに使う。\nUnlike ~, (it is) .... Used to clearly contrast the actions or things in ~ and...\n表示“和~恰恰相反,……”,用于明确表示两个事項(~和………)的不同。",
+            "formation_rule": "名+に対して\n普通形(ナ形だ - な/-である・名だ - な/-である)+の+に対して",
+            "grammar_pattern": "~に対して･･･",
+            "point_id": "4-1"
+        },
+        {
+            "explanation": "「~だが、逆に･･･の面もある。」あることの対比的な両面を言うときに使う。\n~, but on the other hand... Used to present both sides of a proposition.\n表示“~,但另一方面……”,用于表述同一件事情的正反面。",
+            "formation_rule": "普通形(ナ形だな/-である/名だ - である) +反面",
+            "grammar_pattern": "~反面………",
+            "point_id": "4-2"
+        },
+        {
+            "explanation": "「~だが、同時に、別の面で･･･。」③④のように、対比的なことを言う場合は、「~反面」と大体同じ意味。\n~, but at the same time, on the other hand... Used when you want to indicate that there are two opposing sides to an issue (as in ③ and 4).\n表示“~,但另一方面……”、“~,但同时……”,像例③④那样,用于对比两个事項時,其表達的意義与「~はんめん」大致相同。",
+            "formation_rule": "普通形(ナ形だな/-である・名だ - である) +一方(で)",
+            "grammar_pattern": "~一方(で)･･･",
+            "point_id": "4-3"
+        },
+        {
+            "explanation": "「~という言い方より･･･という言い方の方が適切だ。」〜より、もっと適切な言い方(･･･)を示すときに使う。\nMeans \"rather than,\" or \"would say it is more like.\" Used to indicate that a certain way of putting something is more appropriate.\n表示“与其說是~,不如說是……”,用于表示………的說法比~更為妥当。",
+            "formation_rule": "比較するために取り上げる言葉 +というより",
+            "grammar_pattern": "~というより･･･",
+            "point_id": "4-4"
+        },
+        {
+            "explanation": "「~ということがあるが、反対に、それと同じ程度の･･･ということもある。(①②③)」\n「通常している・通常するはずの〜をしないで、それと同じ程度の･･･をする。(4)」\nOn the one hand, but at the same time... ① ② and 3, or \"in return for.\" Also means refrain from an action that usually you would or should undertake, and do something different but equivalent instead 4.\n表示“一方面~,但另一方面……,~和………的程度相当”(①②③),或表示“通常会~,但這次沒有选择這樣做,而是做了与之程度相当的……”(④)。",
+            "formation_rule": "動・形普通形(ナ形だな) +かわりに",
+            "grammar_pattern": "~かわりに･･･",
+            "point_id": "4-5"
+        }
+    ]
+}
