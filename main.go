@@ -118,32 +118,8 @@ func main() {
 	}
 
 	e.GET("/", func(c echo.Context) error {
-		randomIndex := rand.Intn(len(grammarData.GrammarPoints))
-		randomGrammarPoint := grammarData.GrammarPoints[randomIndex]
-
-		// Call the Gemini API using the client
-		ctx := c.Request().Context()
-		response, err := geminiClient.Models.GenerateContent(ctx,
-			"gemini-2.5-flash",
-			genai.Text(fmt.Sprintf("Generate a grammar quiz question based with this grammar point details %+v the question must be in fill in the blank question. Generate a multiple answer choice question with 4 options, one of which is correct. The question should be in Japanese and the options should be in Japanese as well.", randomGrammarPoint)),
-			&genai.GenerateContentConfig{
-				ResponseMIMEType:   "application/json",
-				ResponseJsonSchema: quizSchema,
-			},
-		)
-
-		quiz := QuizQuestion{}
-		if err := json.Unmarshal([]byte(response.Text()), &quiz); err != nil {
-			return c.String(500, "Failed to parse response")
-		}
-
-		if err != nil {
-			return c.String(500, "Failed to generate text")
-		}
-
 		pageData := PageData{
-			Title:        "Shinkanzen JP Quiz",
-			QuizQuestion: quiz,
+			Title: "Shinkanzen JP Quiz",
 		}
 
 		return c.Render(200, "index.html", pageData)
